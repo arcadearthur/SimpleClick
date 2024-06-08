@@ -1,1 +1,1 @@
-# simpleclick
+# SimpleClick DEMO
